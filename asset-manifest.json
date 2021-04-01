@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/table-of-lawyers/static/css/main.a0388f2d.chunk.css",
+    "main.js": "/table-of-lawyers/static/js/main.d373d9e1.chunk.js",
+    "main.js.map": "/table-of-lawyers/static/js/main.d373d9e1.chunk.js.map",
+    "runtime-main.js": "/table-of-lawyers/static/js/runtime-main.53f5bda3.js",
+    "runtime-main.js.map": "/table-of-lawyers/static/js/runtime-main.53f5bda3.js.map",
+    "static/js/2.f015041c.chunk.js": "/table-of-lawyers/static/js/2.f015041c.chunk.js",
+    "static/js/2.f015041c.chunk.js.map": "/table-of-lawyers/static/js/2.f015041c.chunk.js.map",
+    "index.html": "/table-of-lawyers/index.html",
+    "static/css/main.a0388f2d.chunk.css.map": "/table-of-lawyers/static/css/main.a0388f2d.chunk.css.map",
+    "static/js/2.f015041c.chunk.js.LICENSE.txt": "/table-of-lawyers/static/js/2.f015041c.chunk.js.LICENSE.txt",
+    "static/media/data.fa442868.csv": "/table-of-lawyers/static/media/data.fa442868.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53f5bda3.js",
+    "static/js/2.f015041c.chunk.js",
+    "static/css/main.a0388f2d.chunk.css",
+    "static/js/main.d373d9e1.chunk.js"
+  ]
+}
