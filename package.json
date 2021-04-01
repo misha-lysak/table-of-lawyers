@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-papaparse": "^3.11.1",
+    "unique-key": "^0.0.6"
+  }
+}
