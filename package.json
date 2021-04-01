@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "react-papaparse": "^3.11.1",
     "unique-key": "^0.0.6"
   }
