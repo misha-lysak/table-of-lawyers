@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "d3": "^6.6.2",
     "gh-pages": "^3.1.0",
+    "react-data-table-component": "^6.11.7",
     "react-papaparse": "^3.11.1",
-    "unique-key": "^0.0.6"
+    "styled-components": "^5.2.3",
+    "unique-key": "^0.0.6",
+    "xlsx": "^0.16.9"
   }
 }
